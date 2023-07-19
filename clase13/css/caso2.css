@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(177, 100, 170);
+}
+.boton{
+    box-shadow:3px 3px 5px rgb(46, 26, 26);
+    text-align: center;
+    width: 200px;
+    display: inline-block;
+    background-color: rgb(243, 82, 230);
+    border-radius: 15px;
+    text-decoration: none;
+    padding: 5px;
+    margin: 15px 10px;
+    text-transform: uppercase;
+    transition-property: background-color,color;
+    transition-duration: 20ms;/*s=segundos=1000ms*/;
+
+}
+.texto:hoven{
+    background-color:rgb(161, 68, 141); ;
+}
+ul{
+    list-style-type: none;  
+}
